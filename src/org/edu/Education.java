@@ -7,4 +7,8 @@ public class Education {
 		System.out.println("Available Seats in PG 	  : "+seatPG);
 	}
 	
+	public void phd(int seatPHD) {
+		System.out.println("Available Seats in PHD	  : "+seatPHD);
+	}
+	
 	}
